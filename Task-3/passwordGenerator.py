@@ -23,6 +23,6 @@ try:
 
     if password:
         print("Generated Password:", password)
-        
+
 except ValueError:
     print("Please enter valid inputs.")
